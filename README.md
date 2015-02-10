@@ -8,6 +8,11 @@ attempt to corerct that.
 
 
 
+How to build:
+
+./install_node_kali.sh && bash ./debian/novaInstallHelper.sh
+
+
 Changed files:/debian/novaInstallHelper.sh
 
 Added files:/install_node_kali.sh
