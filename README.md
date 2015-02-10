@@ -8,7 +8,6 @@ attempt to corerct that.
 
 
 - Changed files:/debian/novaInstallHelper.sh
-- Added files:/install_node_kali.sh
 
 
 How to build:
@@ -22,3 +21,18 @@ or if you want to build node from git(a bit more reliable):
 Please read the official readme file: README.nova
 
 This file is simply to alert users of the changes.
+
+
+
+STATUS: Kind of working:
+
+
+root@utukku[~]#quasar --debug
+Debug mode: Running quasar without forever
+Initializing nova C++ code
+Nova[2583]: ALERT File  Object.<anonymous> (/usr/share/nova/sharedFiles/Quasar/main.js) at line 101: Starting QUASAR version 13.10.0
+Logging to ./serverLog.log
+Listening on port 8080
+Watching Nova.log and Honeyd.log
+
+IceWeasel will not connect to server.
