@@ -68,10 +68,10 @@ echo "##########################################################################
 cd ${BUILDDIR}/Nova/Quasar
 bash getDependencies.sh
 check_err
-chown -R -f $NEW_PERM node-v0.8.5/
-chown -f $NEW_PERM node-v0.8.5.tar.gz
+#chown -R -f $NEW_PERM node-v0.8.5/
+#chown -f $NEW_PERM node-v0.8.5.tar.gz
 cd ${HOME}
-chown -R $NEW_PERM .npm/
+#chown -R $NEW_PERM .npm/
 check_err
 cd ${BUILDDIR}/Nova/Quasar
 npm install -g forever
