@@ -1,6 +1,5 @@
-﻿===============================
 Kali Linux patch for Nova
-﻿===============================
+
 
 Forked from: ffc7e4377bcc446e25f9be16434d0c2d93ca0f4
 
@@ -12,3 +11,7 @@ attempt to corerct that.
 Changed files:/debian/novaInstallHelper.sh
 
 Added files:/install_node_kali.sh
+
+Please read the official readme file: README.nova
+
+This file is simply to alert users of the changes.
