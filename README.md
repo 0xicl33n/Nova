@@ -14,7 +14,9 @@ attempt to corerct that.
 How to build:
 
     ./install_node_kali.sh && bash ./debian/novaInstallHelper.sh
+or if you want to build node from git(a bit more reliable):
 
+    ./install_node_fromgit.sh && bash ./debian/novaInstallHelper.sh
 
 
 Please read the official readme file: README.nova
