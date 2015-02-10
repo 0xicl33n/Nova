@@ -7,15 +7,15 @@ In my efforts to try and build Nova for kali i always have Nodejs not build prop
 attempt to corerct that.
 
 
-
-How to build:
-
-./install_node_kali.sh && bash ./debian/novaInstallHelper.sh
-
-
 Changed files:/debian/novaInstallHelper.sh
 
 Added files:/install_node_kali.sh
+
+- How to build:
+
+    ./install_node_kali.sh && bash ./debian/novaInstallHelper.sh
+
+
 
 Please read the official readme file: README.nova
 
