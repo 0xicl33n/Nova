@@ -1,3 +1,4 @@
 install:
     - sudo ./install_node_fromgit.sh
     - sudo bash ./debian/novaInstallHelper.sh
+sudo: false
