@@ -34,3 +34,4 @@ install:
     - ./install_node_fromgit.sh
     - bash ./debian/novaInstallHelper.sh
 sudo: false
+dist: trusty
