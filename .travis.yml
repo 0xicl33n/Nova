@@ -30,7 +30,6 @@ addons:
     - tcl 
     - liblinux-inotify2-perl 
     - libfile-readbackwards-perl
-check_err
 install:
     - ./install_node_fromgit.sh
     - bash ./debian/novaInstallHelper.sh
