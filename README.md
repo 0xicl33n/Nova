@@ -1,7 +1,7 @@
 Kali Linux patch for Nova [![Build Status](https://travis-ci.org/0xicl33n/Nova.svg?branch=master)](https://travis-ci.org/0xicl33n/Nova)
 
 
-Forked from: ffc7e4377bcc446e25f9be16434d0c2d93ca0f4
+Forked from: @ffc7e4377bcc446e25f9be16434d0c2d93ca0f4
 
 In my efforts to try and build Nova for kali i always have Nodejs not build properly, this is an 
 attempt to corerct that.
