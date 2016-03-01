@@ -1,3 +1,5 @@
-install:
-    - sudo ./install_node_fromgit.sh
-    - sudo bash ./debian/novaInstallHelper.sh
+pre:
+  - sudo ./install_node_fromgit.sh
+
+post:
+  - sudo bash ./debian/novaInstallHelper.sh
